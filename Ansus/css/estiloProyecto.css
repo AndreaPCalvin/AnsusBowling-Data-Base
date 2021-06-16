@@ -1,0 +1,105 @@
+body{
+	background-color: #454545;
+	color: white;
+}
+
+div#contenedor_Inicio {
+	padding-bottom: 2%;
+	float: center;
+	margin: auto;
+	min-height: 600px;
+	width: 100%;
+	background-color: #454545;
+	
+}
+div#contenido{
+	height:100%;
+	width:100%;
+	display: float;
+}
+#Saludo{
+	font-size:300%;
+	text-align: center;
+	font-weight: bold;
+	color: #FF64DE;
+}
+#SaludoZ{
+	font-size:250%;
+	text-align: center;
+	font-weight: bold;
+	color: #FF64DE;
+	
+}
+#enlace{
+	color: blue;
+	font-weight: bold;
+}
+
+div#Relleno1{
+	font-size: 20px;
+	width: 90%;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: justify;
+	color: white;
+}
+div#Relleno2{
+	float: right;
+	margin-right: 15%;
+}
+div#Relleno2B{
+	margin-left: 15%;
+}
+img#loc{
+	margin-top: 3%;
+	width: 60%;
+	height: auto;
+	border-radius: 10%;
+	
+}
+p#busca{
+	font-size:20px;
+	padding-left:1%;
+}
+table#tablaBoleras{
+	text-align: center;
+	padding: 5%;
+	
+	
+}
+.super-cabecera{
+	width:100%;
+	background-color:grey;
+	height: 40px;
+}
+.super-cabecera nav a{
+	text-decoration:none;
+	color:black;
+	text-align: center;
+	padding: 3%;
+	
+	
+}
+.super-cabecera nav a:hover{
+	text-decoration:none;
+	color:orange;
+	text-decoration: underline;
+}
+.super-cabecera nav a span{
+	font-family: 'Roboto Condensed', "Helvetica Neue", helvetica, arial, sans-serif;
+	font-weight: bold;
+}
+
+span#saludo{
+	font-family: 'Roboto Condensed', "Helvetica Neue", helvetica, arial, sans-serif;
+	font-weight: bold;
+	color: black;
+}
+
+.super-cabecera nav i{
+	display:inline;
+	vertical-align:top;
+	width: 100%;
+	color:black;
+	text-align:center;
+}
